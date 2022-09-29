@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/oop-with-php.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/1-Class-Object.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2-Class-Inheritance.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/3-Class-Encapsulation.php" afterDir="false" />
@@ -17,6 +18,9 @@
       <change afterPath="$PROJECT_DIR$/7-Traits.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/8-Polymorphism.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class.php" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/class.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class-Object.php" afterDir="false" />
+>>>>>>> 0a65dbefe45e7f557d818e8eaf1cad11f33139ee
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -37,6 +42,8 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+=======
+>>>>>>> 0a65dbefe45e7f557d818e8eaf1cad11f33139ee
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -68,11 +75,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664118196805</updated>
+<<<<<<< HEAD
       <workItem from="1664118198125" duration="400000" />
       <workItem from="1664119760661" duration="10096000" />
       <workItem from="1664199922771" duration="17000" />
       <workItem from="1664374689998" duration="4129000" />
       <workItem from="1664461363395" duration="7123000" />
+=======
+      <workItem from="1664118198125" duration="1232000" />
+>>>>>>> 0a65dbefe45e7f557d818e8eaf1cad11f33139ee
     </task>
     <servers />
   </component>
